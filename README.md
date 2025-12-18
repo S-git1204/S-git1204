@@ -1,16 +1,33 @@
 ## Hi ! 👋
-### 你看见了一个**readme**。
+### 你看见了一个**Readme**。
+
+> 书籍是人类进步的阶梯。
+-- 高尔基
 
 - readme使用**Markdown**语法或**html**标记
 - 这是一个记叙文件
 
 - 下面是一个表格
+
 | Rank | Languages |
 |-----:|-----------|
 |     1| Html      |
 |     2| Matlab    |
 |     3| C         |
 |     4| Python    |
+
+
+<details>
+<summary>展开一个表格</summary>
+
+| Rank | Languages|
+|-----:|-----------|
+|     1| Html      |
+|     2| Matlab    |
+|     3| C         |
+|     4| Python    |
+
+</details>
 
 <!--
 **S-git1204/S-git1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
