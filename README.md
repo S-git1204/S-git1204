@@ -13,8 +13,8 @@
 |     4| Python    |
 
 <details>
-<summary>下面是折叠的表格>xia'm>xia
-| **Rank** | **Languages** |
+<summary>下面是折叠的表格></summary>
+| Rank | **Languages|
 |-----:|-----------|
 |     1| Html      |
 |     2| Matlab    |
