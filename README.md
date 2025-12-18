@@ -12,16 +12,7 @@
 |     3| C         |
 |     4| Python    |
 
-<details>
-<summary>下面是折叠的表格></summary>
-| Rank | **Languages|
-|-----:|-----------|
-|     1| Html      |
-|     2| Matlab    |
-|     3| C         |
-|     4| Python    |
 
-</details>
 
 
 
