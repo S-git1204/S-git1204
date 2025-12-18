@@ -1,7 +1,8 @@
 ## Hi ! 👋
-你看见了一个**readme**。
+### 你看见了一个**readme**。
 
-探索github的用法
+- readme使用**Markdown**语法或**html**标记
+- 这是一个记叙文件
 
 <!--
 **S-git1204/S-git1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
