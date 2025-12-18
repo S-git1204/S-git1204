@@ -4,12 +4,24 @@
 - readme使用**Markdown**语法或**html**标记
 - 这是一个记叙文件
 
+- 下面是一个表格
 | Rank | Languages |
 |-----:|-----------|
 |     1| Html      |
 |     2| Matlab    |
 |     3| C         |
 |     4| Python    |
+
+<details>
+<summary>下面是折叠的表格>xia'm>xia
+| **Rank** | **Languages** |
+|-----:|-----------|
+|     1| Html      |
+|     2| Matlab    |
+|     3| C         |
+|     4| Python    |
+
+</details>
 
 
 
