@@ -12,10 +12,6 @@
 |     3| C         |
 |     4| Python    |
 
-
-
-
-
 <!--
 **S-git1204/S-git1204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
